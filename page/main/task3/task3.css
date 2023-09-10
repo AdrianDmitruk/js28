@@ -1,0 +1,14 @@
+.first {
+  border: 1px solid grey;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.second {
+  background-color: lightblue;
+  padding: 10px;
+}
+
+.color {
+  background: red;
+}
